@@ -29,10 +29,11 @@ what an algorithm is, tailored to different levels of experience which align wit
     visual representation that illustrates the sequence of steps and decisions in a process or algorithm using standardized symbols, aiding in the understanding and communication of complex workflows.
     -   ደረጃቸውን የጠበቁ ምልክቶችን በመጠቀም የስልት ፍሰት ውስጥ ያሉ የእርምጃዎችን እና የውሳኔዎችን ቅደም ተከተል የሚያሳይ ምስላዊ ቋንቋን ይወክላል ። ውስብስብ የስራ ፍሰቶችን ለመረዳት ፣ ግንኙነትን በቀላሉ ለማቅረብ ይረዳል።
 -   #### Pseudocode ( የመጀመሪያው መደበኛ ያልሆነ ኮድ )
-    This is a simplified, informal programming language that outlines the logic of a program without using specific syntax, serving as a high-level description of an algorithm or a computer program. - መደበኛ ያልሆነ የፕሮግራም አወጣጥ ቋንቋ ሲሆን ልዩ አገባብ ሳይጠቀም የፕሮግራሙን አመክንዮ የሚገልጽ፣ እንደ ስልት ወይም ለመተግበሪያዋችን የሥራ ሂደት ከላይ በመሆን እንደ መግለጫ ሆኖ ያገለግላል።
+    This is a simplified, informal programming language that outlines the logic of a program without using specific syntax, serving as a high-level description of an algorithm or a computer program.
+    -   መደበኛ ያልሆነ የፕሮግራም አወጣጥ ቋንቋ ሲሆን ልዩ አገባብ ሳይጠቀም የፕሮግራሙን አመክንዮ የሚገልጽ፣ እንደ ስልት ወይም ለመተግበሪያዋችን የሥራ ሂደት ከላይ በመሆን እንደ መግለጫ ሆኖ ያገለግላል።
 
-### Logic
+### Logic ( ሥነ- አመንክዮ )
 
-### Counting
+### Counting ( መቁጥር )
 
-### Probability
+### Probability ( እድል )
