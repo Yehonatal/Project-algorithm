@@ -23,7 +23,7 @@ Please note that the use of this material is at your own discretion, and I shall
 
 ### Contribution Guidelines:
 
--   Contributions are welcome and encouraged. If you wish to contribute to the course content or make improvements, please follow the guidelines outlined in the `CONTRIBUTING.md` file.
+-   Contributions are welcome and encouraged. If you wish to contribute to the course content or make improvements, please follow the guidelines outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 -   You can contribute by suggesting edits, translations, or additional content to enhance the learning experience for the community.
 
 ### Using the Content for Your Projects:
