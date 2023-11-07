@@ -16,7 +16,7 @@ Please note that the use of this material is at your own discretion, and I shall
 
 # Content
 
-#### Introduction - [English](Lessons/en/lesson1.md), [Amharic](Lessons/amh/lesson1.md)
+#### Introduction - [English](Lessons/en/lesson1.md), [Amharic](Lessons/amh/lesson1.md), [Together](Lessons/main/lesson1.md)
 
 -   what is an Algorithm ?
 
