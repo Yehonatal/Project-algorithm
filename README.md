@@ -54,4 +54,4 @@ Feel free to reach out if you have any questions or need assistance in using the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed - see the [LICENSE](./LICENSE) file for details.
