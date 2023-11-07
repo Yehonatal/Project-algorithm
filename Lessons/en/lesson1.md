@@ -10,3 +10,13 @@ what an algorithm is, tailored to different levels of experience which align wit
 
 3. **For a Seasoned Software Developer:**
    "An algorithm represents a systematic, logical sequence of operations that provides a solution to a problem. It serves as the cornerstone of software development, enabling the creation of efficient, scalable systems that can process data, automate tasks, and drive sophisticated applications, much like the blueprint for constructing a complex structure."
+
+### Basics 
+- #### Flowcharts 
+visual representation that illustrates the sequence of steps and decisions in a process or algorithm using standardized symbols, aiding in the understanding and communication of complex workflows.
+- #### Pseudocode 
+This is a simplified, informal programming language that outlines the logic of a program without using specific syntax, serving as a high-level description of an algorithm or a computer program.
+
+### Logic 
+### Counting 
+### Probability 
